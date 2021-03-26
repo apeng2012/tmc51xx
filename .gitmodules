@@ -1,0 +1,3 @@
+[submodule "examples/RT-Thread-tmc5160-demo"]
+	path = examples/RT-Thread-tmc5160-demo
+	url = https://github.com/apeng2012/RT-Thread-tmc5160-demo.git
